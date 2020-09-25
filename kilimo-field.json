@@ -1,0 +1,32 @@
+[
+  {
+    "model": "field.field",
+    "pk": 1,
+    "fields": {
+      "name": "La Cumparsita",
+      "hectare": 56,
+      "latitude": "-38.962532",
+      "longitud": "-68.037186"
+    }
+  },
+  {
+    "model": "field.field",
+    "pk": 2,
+    "fields": {
+      "name": "La Yumba",
+      "hectare": 43,
+      "latitude": "-38.968230",
+      "longitud": "-68.324714"
+    }
+  },
+  {
+    "model": "field.field",
+    "pk": 3,
+    "fields": {
+      "name": "Canales",
+      "hectare": 76,
+      "latitude": "-39.015695",
+      "longitud": "-68.436569"
+    }
+  }
+]

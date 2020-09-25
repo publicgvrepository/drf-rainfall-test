@@ -1,0 +1,47 @@
+[
+  {
+    "model": "register.rainregister",
+    "pk": 1,
+    "fields": {
+      "field": 1,
+      "date": "2020-09-25T16:43:29Z",
+      "millimetres": "30.000"
+    }
+  },
+  {
+    "model": "register.rainregister",
+    "pk": 2,
+    "fields": {
+      "field": 1,
+      "date": "2020-09-25T19:38:06Z",
+      "millimetres": "34.004"
+    }
+  },
+  {
+    "model": "register.rainregister",
+    "pk": 3,
+    "fields": {
+      "field": 1,
+      "date": "2020-08-25T19:50:21Z",
+      "millimetres": "233.000"
+    }
+  },
+  {
+    "model": "register.rainregister",
+    "pk": 4,
+    "fields": {
+      "field": 1,
+      "date": "2020-09-23T19:50:54Z",
+      "millimetres": "77.000"
+    }
+  },
+  {
+    "model": "register.rainregister",
+    "pk": 5,
+    "fields": {
+      "field": 2,
+      "date": "2020-09-10T14:00:00Z",
+      "millimetres": "34.600"
+    }
+  }
+]
