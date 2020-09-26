@@ -31,13 +31,17 @@ To simplify the exercise, the system does not support multiple users. There is o
 
 **3)** pip install -r requirements.txt
 
-**4)** python manage.py createsuperuser
+**4)** python manage.py makemigrations
 
-**5)** python manage.py loaddata kilimo-field.json
+**5)** python manage.py migrate
 
-**6)** python manage.py loaddata kilimo-register.json
+**6)** python manage.py createsuperuser
 
-**7)** python manage.py runserver
+**7)** python manage.py loaddata kilimo-field.json
+
+**8)** python manage.py loaddata kilimo-register.json
+
+**9)** python manage.py runserver
 
 
 
